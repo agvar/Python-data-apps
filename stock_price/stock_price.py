@@ -31,7 +31,7 @@ def stock_price(ticker1,ticker2,start_date,end_date,period):
     st.line_chart(TickerDFVol)
 
     TickerDFClose = pd.concat([tickerDF1["Close"], tickerDF2["Close"]], axis=1, keys=key_list)
-    st.write("## Stock Price by Conparison by Closing Price")
+    st.write("## Stock Price by Comparison by Closing Price")
     st.write(TickerDFClose)
     st.line_chart(TickerDFClose)
 
