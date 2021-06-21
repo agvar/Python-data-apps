@@ -22,7 +22,7 @@ To install the project, the following packages are needed:
 
 ## Using Stock Price Comparison
 
-To use stock price comparison, follow these steps:
+Run the following command to see the price and Volume comparisons between <stock1> and <stock2>
 
 ```
 streamlit run stock_price.py <stock1> <stock2> <start date> <end date> <period>
@@ -34,7 +34,7 @@ streamlit run stock_price.py <stock1> <stock2> <start date> <end date> <period>
 4. end date : End date string (YYYY-MM-DD) or datetime
 5. period : data period used .Valid periods are: 1d, 5d, 1mo, 3mo, 6mo, 1y, 2y, 5y, 10y, ytd, max
 
-#### example for Google and Apple stock comparison from 2015-01-01 to 2021-06-01 for a day period
+#### Sample execution command for Google(GOOGL) and Microsoft(MSFT) stock comparison from 2015-01-01 to 2021-06-01 for a day period
 ```
 streamlit run stock_price.py GOOGL MSFT 2015-01-01 2021-06-01 1d
 ```
