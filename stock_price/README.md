@@ -47,14 +47,3 @@ To contribute to <project_name>, follow these steps:
 3. Make your changes and commit them: `git commit -m '<commit_message>'`
 4. Push to the original branch: `git push origin <project_name>/<location>`
 5. Create the pull request.
-
-Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
-
-## Credits
-* [@scottydocs](https://github.com/scottydocs)
-* https://www.youtube.com/watch?v=JwSS70SZdyM&t=352s&ab_channel=freeCodeCamp.org
-* https://aroussi.com/post/python-yahoo-finance
-
-## Contact
-
-If you want to contact me you can reach me at geevia2020@gmail.com
