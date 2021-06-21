@@ -18,7 +18,7 @@ To install the project, the following packages are needed:
 
 1. pip install streamlit
 2. pip install yfinance
-3. pip install matplotlib
+3. pip install pandas
 
 ## Using Stock Price Comparison
 
