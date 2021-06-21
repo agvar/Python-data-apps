@@ -38,12 +38,3 @@ streamlit run stock_price.py <stock1> <stock2> <start date> <end date> <period>
 ```
 streamlit run stock_price.py GOOGL MSFT 2015-01-01 2021-06-01 1d
 ```
-
-## Contributing to Stock Price Comparison
-To contribute to <project_name>, follow these steps:
-
-1. Fork this repository.
-2. Create a branch: `git checkout -b <branch_name>`.
-3. Make your changes and commit them: `git commit -m '<commit_message>'`
-4. Push to the original branch: `git push origin <project_name>/<location>`
-5. Create the pull request.
