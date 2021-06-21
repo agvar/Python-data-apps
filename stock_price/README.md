@@ -1,8 +1,11 @@
 # Stock Price Comparison using Streamlit
 
 
-Stock Price Comparison is a utility that creates a comparison chart of Volume and Closing prices between two stocks.
+Stock Price Comparison is a utility that creates a comparison chart of Volume and Closing prices between two stocks. The app uses the yfinance library to get historical stock price data and the Streamlit library to create a web app that displays the comparison charts.
 
+Below is a sample chart comparison of GOOGL and MSFT
+
+![alt text](https://github.com/agvar/Python-data-apps/blob/9cbb0804094a7cb5cd10127d6748c6fdf529b388/stock_price/stock_price_displayjpg.jpg)
 
 ## Prerequisites
 
@@ -19,7 +22,7 @@ To install the project, the following packages are needed:
 
 ## Using Stock Price Comparison
 
-To use stock proce comparison, follow these steps:
+To use stock price comparison, follow these steps:
 
 ```
 streamlit run stock_price.py <stock1> <stock2> <start date> <end date> <period>
