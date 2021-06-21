@@ -2,8 +2,10 @@
 
 
 Stock Price Comparison is a utility that creates a comparison chart of Volume and Closing prices between two stocks.
+
 Below is a sample chart comparison of GOOGL and MSFT
-![alt text](https://github.com/agvar/Python-data-apps/stock_price/stock_price_displayjpg.jpg)
+
+![alt text](https://github.com/agvar/Python-data-apps/blob/9cbb0804094a7cb5cd10127d6748c6fdf529b388/stock_price/stock_price_displayjpg.jpg)
 
 ## Prerequisites
 
