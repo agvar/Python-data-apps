@@ -3,8 +3,6 @@ import datetime
 import streamlit as st
 import yfinance as yf
 import pandas as pd
-from matplotlib import pyplot as plt
-
 
 def stock_price(ticker1,ticker2,start_date,end_date,period):
     """
