@@ -5,7 +5,7 @@ DNA Nucleotide count is a data app that counts the nucleotides for a given DNA s
 NA sequences are combinations of  A (adenine), T (thymine), G (guanine), and C (cytosine).The app usesthe Streamlit library to create a web app that displays the comparison charts.
 
 
-![alt text](https://github.com/agvar/Python-data-apps/blob/9cbb0804094a7cb5cd10127d6748c6fdf529b388/stock_price/stock_price_displayjpg.jpg)
+![alt text](https://github.com/agvar/Python-data-apps/blob/da4d6a76126616695e0ca007e1a7ff96b5566e3b/dna_count/dna_count.jpg)
 
 ## Prerequisites
 
