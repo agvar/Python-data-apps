@@ -22,7 +22,7 @@ To install the project, the following packages are needed:
 
 ## Using Stock Price Comparison
 
-To use stock price comparison, follow these steps:
+Run the following command to see the price and Volume comparisons between <stock1> and <stock2>
 
 ```
 streamlit run stock_price.py <stock1> <stock2> <start date> <end date> <period>
@@ -34,27 +34,7 @@ streamlit run stock_price.py <stock1> <stock2> <start date> <end date> <period>
 4. end date : End date string (YYYY-MM-DD) or datetime
 5. period : data period used .Valid periods are: 1d, 5d, 1mo, 3mo, 6mo, 1y, 2y, 5y, 10y, ytd, max
 
-#### example for Google and Apple stock comparison from 2015-01-01 to 2021-06-01 for a day period
+#### Sample execution command for Google(GOOGL) and Microsoft(MSFT) stock comparison from 2015-01-01 to 2021-06-01 for a day period
 ```
 streamlit run stock_price.py GOOGL MSFT 2015-01-01 2021-06-01 1d
 ```
-
-## Contributing to Stock Price Comparison
-To contribute to <project_name>, follow these steps:
-
-1. Fork this repository.
-2. Create a branch: `git checkout -b <branch_name>`.
-3. Make your changes and commit them: `git commit -m '<commit_message>'`
-4. Push to the original branch: `git push origin <project_name>/<location>`
-5. Create the pull request.
-
-Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
-
-## Credits
-* [@scottydocs](https://github.com/scottydocs)
-* https://www.youtube.com/watch?v=JwSS70SZdyM&t=352s&ab_channel=freeCodeCamp.org
-* https://aroussi.com/post/python-yahoo-finance
-
-## Contact
-
-If you want to contact me you can reach me at geevia2020@gmail.com
