@@ -1,5 +1,7 @@
-The following list of data apps follows 
+The following list of data apps were inspired by the  following youtube video
+* https://www.youtube.com/watch?v=JwSS70SZdyM&t=352s&ab_channel=freeCodeCamp.org
 
+These python apps were modifed to enhance their functionality
 
 ## Credits
 * [@scottydocs](https://github.com/scottydocs)
